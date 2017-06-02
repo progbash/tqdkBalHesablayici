@@ -1,0 +1,9 @@
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\bin\Debug\balHesablama.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\bin\Debug\balHesablama.exe
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\bin\Debug\balHesablama.pdb
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.exe
+c:\users\p501\documents\visual studio 2017\Projects\balHesablama\balHesablama\obj\Debug\balHesablama.pdb
